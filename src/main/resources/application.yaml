@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+welcome:
+  message: "Welcome to learning Spring Boot"
+
+user:
+  Name: "Mike"
+  age: "30"
+  profession: "programmer"
+
+message:
+  content: "Hello, Friend! It's snowing now. Soon New 2023 year!"
+  dateTime: "2022-12-15 22:12"
